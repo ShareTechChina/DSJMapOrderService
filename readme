@@ -1,0 +1,7 @@
+#this is a spring boot based project
+
+#to run it - mvn spring-boot:run
+
+#to build the execute able jar - mvn install
+
+#to change env in src/main/resources/application.properties
